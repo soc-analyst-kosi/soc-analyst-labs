@@ -44,3 +44,9 @@ Identification and filtering of SYN packets
 Understanding TCP retransmission behavior
 Differentiating normal network issues from attack patterns
 Interpreting time-based packet behavior
+
+## Evidence
+![SYN Analysis](syn-retransmission-analysis.png)
+
+## Full Report
+[Download Full Report](day2-syn-analysis.pdf)
